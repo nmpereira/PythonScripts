@@ -1,0 +1,3 @@
+1. copy this whole folder to C drive as 'C:\Scalpbot' so it should look like 'C:\Scalpbot\chromedrive.exe'
+2. change variables in variables.py by inspecting element on a disabled page and an enabled page
+2.5 check for class under the button and copy a UNIQUE class that is unique to that disabled/enabled button only and copy those into variables.py
